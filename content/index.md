@@ -1,25 +1,17 @@
 ---
-title: "Min fina titel"
+title: "Det här är jag"
 ---
 Min me-sida i kursen oophp
 =========================
 
+[FIGURE src="image/solros.jpg?w=500" caption="En bild på en solros mitt i skogen."]
+
 Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/index.md`.
 
-[FIGURE src="image/me.jpg?w=500" caption="Bild på mig"]
+Detta är min me-sida i kursen oophp. Denna sidan innehåller en presentation av mig själv.
 
-Detta är min me-sida i kursen. Denna sidan innehåller en presentation av mig själv. Underhåll denna sidan under hela kursen och uppdatera den efter hand och behov.
+Mitt namn är Malin och kommer från Värmland där jag bor med min familj. Jag är mamma till tre barn som börjar bli ganska stora vid det här laget och i familjen finns flera djur.
 
-Så, en presentation en bra början. Skriv några ord om dig själv. Jag börjar.
+Jag arbetar på en värmländsk kommun som systemförvaltare sedan ca åtta år tillbaka och den här kursen läser jag på min fritid. Så mycket annat hinner jag inte med ärligt talat, så det är tur att jag tycker att det här är roligt.
 
-Mitt namn är Mikael Roos. Född och uppvuxen i Bankeryd, Småland, strax utanför Jönköping, i ett villaområde som byggdes upp samtidigt som vi flyttade in där. Jag gillade landhockey och har spelat bandy och hockey samt gått bowlinggymnasiet i Nässjö. Jag har varit städare, diskare, kallskänka, servitör och kock. På ett bananskal landade jag i Ronneby när jag började högskolan 1990 där och nu är jag kvar med fru, barn och så vidare.
-
-Programmering har alltid intresserat mig sedan 13-årsåldern och min första dator var en Spectravideo 328 med bandspelare.
-
-Om jag skall nämna någon hobby, förutom webbprogrammering, så får det bli att bära sten på sommarstugetomten, och det finns sten så det räcker och blir över.
-
-Till och från får jag för mig att börja på lite hobbies, ett år satsade jag på pokerspel, ett annat år var det geocaching och sedan turfing. Nu ligger jag lågt med hobbies, men något kanske dyker upp...?
-
-Vi syns och hörs i forum och chatt!
-
-/Mikael
+Får jag ändå tid över lägger jag den gärna på att vara i skogen med hunden eller att fotografera och redigera foton.
